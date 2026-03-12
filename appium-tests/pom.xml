@@ -46,6 +46,14 @@
       <scope>test</scope>
     </dependency>
 
+    <!-- REST Assured — fluent HTTP API testing -->
+    <dependency>
+      <groupId>io.rest-assured</groupId>
+      <artifactId>rest-assured</artifactId>
+      <version>5.4.0</version>
+      <scope>test</scope>
+    </dependency>
+
     <!-- SLF4J + Logback for logging -->
     <dependency>
       <groupId>org.slf4j</groupId>
